@@ -14,3 +14,9 @@ At a high level, making an autograded assignment on Gradescope is quite simple: 
 
 From there, students can access the Gradescope website to submit their code.    There are also options for submitting directly from a private git repository.
 
+# Repos that may help
+
+| Repo | Description |
+|-------|-------------|
+| https://github.com/project-anacapa/gradescope-simple-template-draft      | Script to help you setup `autograder.zip` that connects to github |
+| https://github.com/project-anacapa/gradescope-cpp-unit-test      | A template for a C++ autograded assignment |
